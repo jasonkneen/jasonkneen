@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+WIP (actively updating this)
+
+https://github.com/jasonkneen/mcpsz-website
+
 <!--
 **jasonkneen/jasonkneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
