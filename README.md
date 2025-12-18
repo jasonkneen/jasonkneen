@@ -1,6 +1,10 @@
-## Hi there 👋
-
 WIP (actively updating this)
+
+**claudsky desktop claude-agent-sdk client**
+
+https://github.com/jasonkneen/claudesky
+
+**mcpz.it public web site**
 
 https://github.com/jasonkneen/mcpsz-website
 
