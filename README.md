@@ -6,8 +6,8 @@ https://github.com/jasonkneen/claudesky
 <br/>
 <br/>
 <br/>
+<br/>
 <img width="100" height="auto" align="left" alt="Screenshot 2025-12-18 at 20 30 52" src="https://github.com/user-attachments/assets/3f9c19d0-d0d7-46a1-9ef6-801e61598943" />
-
 <b>mcpz.it public web site</b>
 <br/>
 https://github.com/jasonkneen/mcpsz-website
